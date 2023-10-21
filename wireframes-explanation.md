@@ -12,3 +12,8 @@ Este documento tiene como objetivo proporcionar una comprensión de los wirefram
 
 3. Panels con los que contará la sección ```Donaciones``` del ```Sidebar```
 ![image](https://github.com/nosfer-fisi/nosfer/assets/125885880/6fc4b18e-1167-46b3-a800-59e101c2717e)
+
+Específicamente propongo esta disposición de los panels de ```Donaciones```:
+![image](https://github.com/nosfer-fisi/nosfer/assets/125885880/83761b0b-f2c3-4bdc-84c2-b1e1ef5648e9)
+
+
